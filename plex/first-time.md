@@ -92,7 +92,7 @@ Confirm the sign in, and you'll be able to search for any TV show or movie you w
 ![overseerr-home-2024-09-03.png](screenshots/overseerr-home-2024-09-03.png)
 
 ## Notice an issue with content? 
-I'm going to give you 2 great options for getting my attention on something. First You can find the item on https://overseerr.dakotamnichols.com/ and click on the yellow "Report Issue" button on the right hand side.
+I'm going to give you 2 great options for getting my attention on something. First You can find the item on [Overseerr](https://overseerr.dakotamnichols.com/) and click on the yellow "Report Issue" button on the right hand side.
 ![overseerr-report-issue-2024-09-03.png](screenshots/overseerr-report-issue-2024-09-03.png)
 
 Fill out the popup dialog with detailed information like this:
