@@ -37,12 +37,14 @@ Press "I accept the invitation"
 
 Once clicked, you're browser of choice will open to a sign in page for Plex. If you already have an account, just sign in! Otherwise, I recommend clicking the "sign up with email" under the "Sign In" button instead of attaching Plex to your Google, Facebook, or Apple account. It won't hurt anything, but why give your info to these companies for free?
 **Just make sure that whatever sign in method you use has the same email I sent the invite to.**
+
 ![plex-sign-in-2024-09-03.png](screenshots/plex-sign-in-2024-09-03.png)
 
 If you've signed in from your computer, you'll be dropped into the *Manage Library Access* page. You'll notice my account and the fact that you have access to the number of libraries I shared with you.
+
 ![plex-manage-library-access-2024-09-03.png](screenshots/plex-manage-library-access-2024-09-03.png)
 
-*I haven't located the following settings in the apps, nor do I know if they exist there. That being said, this section is mostly going to be about setting quality presets and privacy.*
+*These settings should also exist in the apps for Plex, but the method of getting to the settings is different on every device. On the phone, click the triple horizontal lines and then the cog. On a TV, there is often a "Settings" cog as the bottom left most option.*
 
 Under the Plex Web header in the left side menu, click on the *Quality* link. Here you can adjust the default streaming quality. I recommend setting this to Maximum unless your internet is slow.
 
@@ -76,7 +78,7 @@ If you're on a computer, I recommend getting the desktop app from [here](https:/
 Plex is also available on all major streaming devices. Support includes most smart TVs, streaming boxes like an Apple TV or SHIELD, and can even be Chromecast.
 
 ## Want to request more content?
-Go ahead and log into https://overseerr.dakotamnichols.com/. 
+Go ahead and log into: https://overseerr.dakotamnichols.com/
 ![overseerr-sign-in-2024-09-03.png](screenshots/overseerr-sign-in-2024-09-03.png)
 
 Clicking Sign In here will ask for your permission to log in from Plex.
