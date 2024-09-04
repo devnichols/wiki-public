@@ -53,6 +53,8 @@ Under the Plex Web header in the left side menu, click on the *Quality* link. He
 
 Now click on the *Player* tab and click "Show Advanced" in the top of the new window. While it's not normally an issue, you can uncheck the *Normalize Multi-channel Audio* box at the top. Feel free to also look at the subtitle and Cinema Trailers options if they interest you.
 
+![plex-player-2024-09-03.png](screenshots/plex-player-2024-09-03.png)
+
 **Finally**, click the Home icon in the top left corner. You'll be taken to the "Plex Web Setup" page. Uncheck everything that isn't "Movies", "TV Shows", and "Music" (With the musical note icon, if you want it). These are the 3 libraries I have shared with you.
 ![plex-web-setup-2024-09-03.png](screenshots/plex-web-setup-2024-09-03.png)
 
@@ -78,7 +80,9 @@ If you're on a computer, I recommend getting the desktop app from [here](https:/
 Plex is also available on all major streaming devices. Support includes most smart TVs, streaming boxes like an Apple TV or SHIELD, and can even be Chromecast.
 
 ## Want to request more content?
-Go ahead and log into: https://overseerr.dakotamnichols.com/
+Go ahead and log into: 
+https://overseerr.dakotamnichols.com/
+
 ![overseerr-sign-in-2024-09-03.png](screenshots/overseerr-sign-in-2024-09-03.png)
 
 Clicking Sign In here will ask for your permission to log in from Plex.
