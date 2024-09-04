@@ -13,19 +13,10 @@ If you're reading this, it's because I've granted you access to my Plex Library.
 
 - **So what even is Plex?**
 
-<<<<<<< HEAD
-Plex is a media server that I host on my own system. Think of it exactly like your other favorite movie watching apps, except this one doesn't cost you a dime.
-![plex-home-2024-09-03.png](screenshots/plex-home-2024-09-03.png)
-
-- **But wait, is it safe?**
-
-Yep! I regularly scan all files in the server for viruses. I have been using this service for a few years now with no issues.
-=======
 Plex is a media server that I host on my own system. Think of it exactly like your other favorite movie watching apps, except this one is courtesy of me.
 ![plex-home-2024-09-03.png](screenshots/plex-home-2024-09-03.png)
 
 - **But wait, is it safe?**
->>>>>>> e1d3adf (Adding screenshots and full rewrite.)
 
 Yep! I regularly scan all files in the server for viruses. I have been using this service for a few years now with no issues.
 
@@ -96,13 +87,8 @@ Confirm the sign in, and you'll be able to search for any TV show or movie you w
 ![overseerr-home-2024-09-03.png](screenshots/overseerr-home-2024-09-03.png)
 
 ## Notice an issue with content? 
-<<<<<<< HEAD
-Let me know (not directly, it's not you, but I will likely forget about it). You have two options. You can find the item on https://overseerr.dakotamnichols.com/ and click on the yellow "Report Issue" button on the right hand side.
-![2024-03-10_13-39.png](/2024-03-10_13-39.png)
-=======
 I'm going to give you 2 great options for getting my attention on something. First You can find the item on https://overseerr.dakotamnichols.com/ and click on the yellow "Report Issue" button on the right hand side.
 ![overseerr-report-issue-2024-09-03.png](screenshots/overseerr-report-issue-2024-09-03.png)
->>>>>>> e1d3adf (Adding screenshots and full rewrite.)
 
 Fill out the popup dialog with detailed information like this:
 ![overseerr-report-issue-dial-2024-09-03.png](screenshots/overseerr-report-issue-dial-2024-09-03.png)
