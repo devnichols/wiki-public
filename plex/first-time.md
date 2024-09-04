@@ -1,9 +1,8 @@
 ---
 title: First Time Plex User Setup
 description: This is a setup guide for first time users. 
-published: true
-tags: 
 editor: markdown
+date: 2024-09-03 22:15
 ---
 
 # Hello!	
