@@ -104,4 +104,8 @@ Your second option is directly in Plex. Anywhere you can see the media, click th
 
 ![plex-report-issue-2024-09-03.png](screenshots/plex-report-issue-2024-09-03.png)
 ![plex-report-issue-alt-2024-09-03.png](screenshots/plex-report-issue-alt-2024-09-03.png)
+
+Then fill out the details:
 ![plex-report-issue-dial-2024-09-03.png](screenshots/plex-report-issue-dial-2024-09-03.png)
+
+Thank you for reading, and I hope you enjoy!
