@@ -13,85 +13,104 @@ If you're reading this, it's because I've granted you access to my Plex Library.
 
 - **So what even is Plex?**
 
+<<<<<<< HEAD
 Plex is a media server that I host on my own system. Think of it exactly like your other favorite movie watching apps, except this one doesn't cost you a dime.
 ![plex-home-2024-09-03.png](screenshots/plex-home-2024-09-03.png)
 
 - **But wait, is it safe?**
 
 Yep! I regularly scan all files in the server for viruses. I have been using this service for a few years now with no issues.
+=======
+Plex is a media server that I host on my own system. Think of it exactly like your other favorite movie watching apps, except this one is courtesy of me.
+![plex-home-2024-09-03.png](screenshots/plex-home-2024-09-03.png)
 
-- **Why use this versus streaming services?**
+- **But wait, is it safe?**
+>>>>>>> e1d3adf (Adding screenshots and full rewrite.)
 
-Everything in one spot, for one. Also, I've found streaming services kind of suck depending on device your streaming on. Plex is consistent. Also, Plex has a shuffle button. Try it out, especially on shows you've seen more than once. It's a nice way to say "I want to watch an episode of this, but I don't care which one, or if they're in order". I use it with Family Guy and American Dad to fall asleep, and with Psych when I work from home. 
+Yep! I regularly scan all files in the server for viruses. I have been using this service for a few years now with no issues.
 
-- **I'm in**
+- **Still interested?**
 
-Sweet. If you haven't yet given me your email address, I would do so now, so I can invite you. 
+Awesome! If you haven't already, give me your email address so I can invite you. Alternatively, if you already have a Plex account you can also send me your username.
 
-# Get Started
-*This assumes that you're on PC. Steps may be different on the phone*
+# Let's Get Started
+*This guide will assume that you are at a PC, but the steps should be similar from a phone.*
 
 Check your email. You got an email from noreply@plex.tv with the subject "You've been invited to share some media in Plex" 
-*Don't worry, you're not sharing media with me, and the only way that could happen is if you download and setup a server. You'd know.*
+*Don't worry about this wording. The only way you can share you media with me is if you specifically download the server software and configure it. You'd definitely know if you were sharing.*
 
-It will look like this: 
+The invite will look something like this:
 
-![image.png](/image_1.png)
+![plex-invite-2024-09-03.png](screenshots/plex-invite-2024-09-03.png)
 
 Press "I accept the invitation"
 
-You'll be greeted with an Account Sign in page. On the off chance you already have a Plex account, just sign in. If you don't have a Plex account, you can either select one of the "Continue with..." options to use a single sign on, or you can press the dark grey "sign up with email" text under the "Sign In" button. 
-**Make sure whatever method you use uses the same email that I sent the invite to.**
-![2024-03-10_13-13_1.png](/2024-03-10_13-13_1.png)
+Once clicked, you're browser of choice will open to a sign in page for Plex. If you already have an account, just sign in! Otherwise, I recommend clicking the "sign up with email" under the "Sign In" button instead of attaching Plex to your Google, Facebook, or Apple account. It won't hurt anything, but why give your info to these companies for free?
+**Just make sure that whatever sign in method you use has the same email I sent the invite to.**
+![plex-sign-in-2024-09-03.png](screenshots/plex-sign-in-2024-09-03.png)
 
-Once you've signed in, you'll be on a "Manage Library Access Page" and you should see that you have access to 5 Libraries shared by me. 
+If you've signed in from your computer, you'll be dropped into the *Manage Library Access* page. You'll notice my account and the fact that you have access to the number of libraries I shared with you.
+![plex-manage-library-access-2024-09-03.png](screenshots/plex-manage-library-access-2024-09-03.png)
 
-![2024-03-10_13-15_1.png](/2024-03-10_13-15_1.png)
+*I haven't located the following settings in the apps, nor do I know if they exist there. That being said, this section is mostly going to be about setting quality presets and privacy.*
 
-Before we go to the Home page, let's make some setting adjustments. 
+Under the Plex Web header in the left side menu, click on the *Quality* link. Here you can adjust the default streaming quality. I recommend setting this to Maximum unless your internet is slow.
 
-Click on "General" under "Plex Web" on the left hand side, and click "Show Advanced" on the resulting page. Feel free to check "Play Theme Music", I think it's neat. 
+*Note: You may also set "Automatically adjust quality (Beta)" to on if you are having issues streaming.*
+![plex-quality-2024-09-03.png](screenshots/plex-quality-2024-09-03.png)
 
-Then click on "Quality" underneath "General", here are my recommended settings. 
-![2024-03-10_13-17_1.png](/2024-03-10_13-17_1.png)
-*Note: You may find that you want to set "Automatically adjust quality (Beta)" to on if you have issues streaming*
+Now click on the *Player* tab and click "Show Advanced" in the top of the new window. While it's not normally an issue, you can uncheck the *Normalize Multi-channel Audio* box at the top. Feel free to also look at the subtitle and Cinema Trailers options if they interest you.
 
-Finally, click on the "Player" tab and uncheck "Normalize Multi-channel Audio"
+**Finally**, click the Home icon in the top left corner. You'll be taken to the "Plex Web Setup" page. Uncheck everything that isn't "Movies", "TV Shows", and "Music" (With the musical note icon, if you want it). These are the 3 libraries I have shared with you.
+![plex-web-setup-2024-09-03.png](screenshots/plex-web-setup-2024-09-03.png)
 
-Now, click on the home button in the top left corner, and you'll see the "Plex Web Setup" page, with a list of pinned sources. Uncheck everything that isn't "4k Movies" "Movies" "Stand Up" "Anime" or "TV Shows". All of the rest of it isn't something that I've shared with you. 
-![2024-03-10_13-21_1.png](/2024-03-10_13-21_1.png)
+Everything else that is listed here are services provided by Plex. They can always be enabled later, but I recommend disabling them. Once you're done, press "Finish Setup". 
 
-These, and "Watchlist" at the top are not something I've shared, and will just make your Plex experience confusing. 
+Next, Plex will ask if you want to share you watch history. 
+![plex-watch-history-2024-09-03.png](screenshots/plex-watch-history-2024-09-03.png)
 
-Once you've unchecked Watchlist, Playlists, Live TV, Movies & Shows, Discover and Music, press "Finish Setup". 
+I recommend setting these options to **private** and **Don't send me activity digests**.
+![plex-watch-history-private-2024-09-03.png](screenshots/plex-watch-history-private-2024-09-03.png)
 
-Next up, it will ask if you want to Share your Watch History. I highly recommend setting it to Private by clicking on the dropdown. 
-![2024-03-10_13-23_1.png](/2024-03-10_13-23_1.png)
+Press Accept once you've set your preferences.
 
-Press Accept once you've set it to your preference, again, I would set it to Private. 
-
-And now you can browse everything I have to offer. 
-![2024-03-10_13-24_1.png](/2024-03-10_13-24_1.png)
+Now you're set to browse everything on the server!
 
 # Next Steps
 ## Download Apps
 
-If you did the above on your phone, you likely have the Plex app. Unfortunately, on mobile devices you do have to pay a one time $5 fee to be able to stream. If you're on desktop, I recommend getting the desktop app from [here](https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=win#plex-app)
+So here's the bad news. If you're wanting to watch on your phone, you'll likely want the Plex app. Unfortunately, on mobile devices you'll have to pay a $5 fee to gain access to streaming.
 
-Plex is also available on all major streaming devices. 
+If you're on a computer, I recommend getting the desktop app from [here](https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=win#plex-app)
 
-Settings wiki page coming soon
+Plex is also available on all major streaming devices. Support includes most smart TVs, streaming boxes like an Apple TV or SHIELD, and can even be Chromecast.
+
+## Want to request more content?
+Go ahead and log into https://overseerr.dakotamnichols.com/. 
+![overseerr-sign-in-2024-09-03.png](screenshots/overseerr-sign-in-2024-09-03.png)
+
+Clicking Sign In here will ask for your permission to log in from Plex.
+![overseerr-plex-sign-in-2024-09-03.png](screenshots/overseerr-plex-sign-in-2024-09-03.png)
+
+Confirm the sign in, and you'll be able to search for any TV show or movie you want! By default there is a request limit of 8 movies and 5 TV seasons per week.
+![overseerr-home-2024-09-03.png](screenshots/overseerr-home-2024-09-03.png)
 
 ## Notice an issue with content? 
+<<<<<<< HEAD
 Let me know (not directly, it's not you, but I will likely forget about it). You have two options. You can find the item on https://overseerr.dakotamnichols.com/ and click on the yellow "Report Issue" button on the right hand side.
 ![2024-03-10_13-39.png](/2024-03-10_13-39.png)
+=======
+I'm going to give you 2 great options for getting my attention on something. First You can find the item on https://overseerr.dakotamnichols.com/ and click on the yellow "Report Issue" button on the right hand side.
+![overseerr-report-issue-2024-09-03.png](screenshots/overseerr-report-issue-2024-09-03.png)
+>>>>>>> e1d3adf (Adding screenshots and full rewrite.)
 
-Fill out the pop-up form based on what the issue is, like so: 
-![2024-03-10_13-40_1.png](/2024-03-10_13-40_1.png)
+Fill out the popup dialog with detailed information like this:
+![overseerr-report-issue-dial-2024-09-03.png](screenshots/overseerr-report-issue-dial-2024-09-03.png)
 
-*Note how I added detail that showed why I think it's the file that's the issue? Video stuttering halfway through could be because of network connection, but if it happens at the same point on multiple devices, it's likely the file that's bad.* 
+*Please, for my sanity*, add details to your issue. If only one device has an issue, it might just be a spotty connection or an incompabitility with that app. *If the issue occurs on every device, then it's probably something wrong with the file itself.*
 
-Alternatively, you can do this directly on Plex. On the page for the episode or Movie that has an issue, click the three dot button and select "Report Issue..." from the resulting dropdown.
+Your second option is directly in Plex. Anywhere you can see the media, click the elipses "**...**" and then "Report Issue..."
 
-![2024-03-10_13-43_3.png](/2024-03-10_13-43_3.png)
-![2024-03-10_13-44_1.png](/2024-03-10_13-44_1.png)
+![plex-report-issue-2024-09-03.png](screenshots/plex-report-issue-2024-09-03.png)
+![plex-report-issue-alt-2024-09-03.png](screenshots/plex-report-issue-alt-2024-09-03.png)
+![plex-report-issue-dial-2024-09-03.png](screenshots/plex-report-issue-dial-2024-09-03.png)
