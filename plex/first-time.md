@@ -6,17 +6,19 @@ tags:
 editor: markdown
 ---
 
-# Welcome	
-If you're reading this, it's because I've shared my Plex library with you. You likely have some questions. *I recommend reading through this all first before going through the setup.*
+# Hello!	
+*I recommend reading this all before going through your setup.*
 
-- **What is Plex?**
+If you're reading this, it's because I've granted you access to my Plex Library. Hi, hello, and welcome!
 
-Plex is a media server that I run on my own system, you connect to my system through Plex's servers. All the content is content that I have downloaded, and you are accessing from my system. You have access to over 500 movies (with some 4k options available) and over 200 TV shows, as well as a small Anime collection and a growing Standup collection. 
-![plex-home-2024-09-03.png](/screenshots/plex-home-2024-09-03.png)
+- **So what even is Plex?**
 
-- **Is it safe?**
+Plex is a media server that I host on my own system. Think of it exactly like your other favorite movie watching apps, except this one doesn't cost you a dime.
+![plex-home-2024-09-03.png](screenshots/plex-home-2024-09-03.png)
 
-Yes. I've already checked all the files and ensured they're safe, and there's nothing that could happen to you. Me and my family have been using Plex for close to a decade now without any issues or harm. I'm assuming all of the risk. 
+- **But wait, is it safe?**
+
+Yep! I regularly scan all files in the server for viruses. I have been using this service for a few years now with no issues.
 
 - **Why use this versus streaming services?**
 
