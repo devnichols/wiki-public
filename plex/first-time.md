@@ -2,10 +2,8 @@
 title: First Time Plex User Setup
 description: This is a setup guide for first time users. 
 published: true
-date: 2024-03-10T17:54:12.139Z
 tags: 
 editor: markdown
-dateCreated: 2024-03-10T17:45:31.912Z
 ---
 
 # Welcome	
@@ -14,7 +12,7 @@ If you're reading this, it's because I've shared my Plex library with you. You l
 - **What is Plex?**
 
 Plex is a media server that I run on my own system, you connect to my system through Plex's servers. All the content is content that I have downloaded, and you are accessing from my system. You have access to over 500 movies (with some 4k options available) and over 200 TV shows, as well as a small Anime collection and a growing Standup collection. 
-![2024-03-10_13-49_3.png](/2024-03-10_13-49_3.png)
+![plex-home-2024-09-03.png](/screenshots/plex-home-2024-09-03.png)
 
 - **Is it safe?**
 
@@ -83,7 +81,7 @@ Plex is also available on all major streaming devices.
 Settings wiki page coming soon
 
 ## Notice an issue with content? 
-Let me know (not directly, it's not you, but I will likely forget about it). You have two options. You can find the item on https://requests.jonthorne.com/ and click on the yellow "Report Issue" button on the right hand side.
+Let me know (not directly, it's not you, but I will likely forget about it). You have two options. You can find the item on https://overseerr.dakotamnichols.com/ and click on the yellow "Report Issue" button on the right hand side.
 ![2024-03-10_13-39.png](/2024-03-10_13-39.png)
 
 Fill out the pop-up form based on what the issue is, like so: 
