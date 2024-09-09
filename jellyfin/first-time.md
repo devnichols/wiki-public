@@ -28,9 +28,9 @@ https://jellyfin.dakotamnichols.com/
 
 - **App Store Links**
 
-[IOS](https://apps.apple.com/us/app/jellyfin-mobile/id1480192618?mt=8)
+Apple: [App Store](https://apps.apple.com/us/app/jellyfin-mobile/id1480192618?mt=8)
 
-[Android](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
+Android: [Play Store](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
 
 - **Huh? But the Plex setup guide was so long!**
 
