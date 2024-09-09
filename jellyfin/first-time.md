@@ -27,7 +27,9 @@ Awesome! Let me know and I'll create a username and password for you. If you are
 https://jellyfin.dakotamnichols.com/
 
 - **App Store Links**
+
 [IOS](https://apps.apple.com/us/app/jellyfin-mobile/id1480192618?mt=8)
+
 [Android](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
 
 - **Huh? But the Plex setup guide was so long!**
