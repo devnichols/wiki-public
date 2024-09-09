@@ -18,7 +18,7 @@ AudioBookShelf is a media server that I host on my own system. Think of this lik
 
 - **But wait, is it safe?**
 
-Yep! I regularly scan all files in the server for viruses. I have been using this service for a few years now with no issues.
+Yep! I regularly scan all files in the server for viruses. I have been using this service for the better part of a year now with no issues.
 
 - **Still interested?**
 
