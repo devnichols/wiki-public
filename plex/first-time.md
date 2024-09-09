@@ -10,7 +10,9 @@ date: 2024-09-03 22:15
 
 If you're reading this, it's because I've granted you access to my Plex Library. Hi, hello, and welcome!
 
-Let me add my first disclaimer, if you are viewing on a mobile phone **both the IOS and Android app have a one time $5 fee to stream more than a minute of video.** This sucks. I know it does. This does not go to me, it goes to the creator of this software. I have an alternative known as Jellyfin set up, but it's not as feature rich. Let me know if that is your preference and I can get you set up.
+Let me add my first disclaimer, if you are viewing on a mobile phone **both the IOS and Android app have a one time $5 fee to stream more than a minute of video.** This sucks. I know it does. This does not go to me, it goes to the creator of this software. Plex can be viewed on both a PC and most TV apps for free without this restriction.
+
+If those options do not work for you, I have an alternative known as **Jellyfin**, but it's not as feature rich. Let me know if that is your preference and I can get you set up.
 
 - **So what even is Plex?**
 
