@@ -34,7 +34,9 @@ Android: [Play Store](https://play.google.com/store/apps/details?id=org.jellyfin
 
 - **Huh? But the Plex setup guide was so long!**
 
-Yep!!! Plex is for-profit and uses a centralized account network. Jellyfin, on the other hand, has all the accounts locally on my server. In general, I've noticed Plex works better for most media types, but Jellyfin offers a free streaming platform without all those fees associated with Plex.
+Yep!!! Plex is for-profit and uses a centralized account network. Jellyfin, on the other hand, has all the accounts locally on my server. That means most of those privacy steps? Not needed here. 
+
+So why not always use Jellyfin? In general, I've noticed Plex works better for most media types, but Jellyfin offers a free streaming platform without all those fees associated with Plex. Plus, I ain't got time to manage all these guides!
 
 # Next Steps
 
