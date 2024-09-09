@@ -26,12 +26,6 @@ Awesome! Let me know and I'll create a username and password for you. If you are
 
 https://jellyfin.dakotamnichols.com/
 
-- **App Store Links**
-
-- Apple: [App Store](https://apps.apple.com/us/app/jellyfin-mobile/id1480192618?mt=8)
-
-- Android: [Play Store](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
-
 - **Huh? But the Plex setup guide was so long!**
 
 Yep!!! Plex is for-profit and uses a centralized account network. Jellyfin, on the other hand, has all the accounts locally on my server. That means most of those privacy steps? Not needed here. 
@@ -39,6 +33,11 @@ Yep!!! Plex is for-profit and uses a centralized account network. Jellyfin, on t
 So why not always use Jellyfin? In general, I've noticed Plex works better for most media types, but Jellyfin offers a free streaming platform without all those fees associated with Plex. Plus, I ain't got time to manage all these guides!
 
 # Next Steps
+## **App Store Links**
+
+- Apple: [App Store](https://apps.apple.com/us/app/jellyfin-mobile/id1480192618?mt=8)
+
+- Android: [Play Store](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
 
 ## Want to request more content?
 Go ahead and log into: 
