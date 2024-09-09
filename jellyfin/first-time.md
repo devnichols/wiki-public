@@ -13,6 +13,7 @@ Welcome to my Jellyfin! If you're reading this, it's because I have granted you 
 - **So what even is Jellyfin?**
 
 Jellyfin is a media server that I host on my own system. Think of it exactly like your other favorite movie watching apps, except this one is courtesy of me.
+
 ![jellyfin-home-2024-09-08](screenshots/jellyfin-home-2024-09-08.png)
 
 - **But wait, is it safe?**
@@ -21,7 +22,9 @@ Yep! I regularly scan all files in the server for viruses. I have been using thi
 
 - **Still interested?**
 
-Awesome! Let me know and I'll create a username and password for you.
+Awesome! Let me know and I'll create a username and password for you. If you are viewing from a web browser, navigate directly to the link below. If you are using the Jellyfin app on mobile or TV, set this as the *Connect to Server* host link.
+
+https://jellyfin.dakotamnichols.com/
 
 - **App Store Links**
 [IOS](https://apps.apple.com/us/app/jellyfin-mobile/id1480192618?mt=8)
