@@ -29,6 +29,10 @@ https://abs.dakotamnichols.com/
 # What's Next
 ## Download the mobile apps
 
-Apple [App Store](https://testflight.apple.com/join/wiic7QIW)
+Mobile apps are optional, but I have a preference to using the Android app.
 
 Google [Play Store](https://play.google.com/store/apps/details?id=com.audiobookshelf.app)
+
+**AudioBookShelf does not currently have an app available on the Apple App Store. They do have an App in the Apple Testflight store, which is for apps that are still in BETA, and NOT guaranteed to be fully functional. Try this route at your own risk.**
+Apple [TestFlight](https://testflight.apple.com/join/wiic7QIW)
+
