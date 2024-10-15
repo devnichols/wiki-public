@@ -40,22 +40,19 @@ So why not always use Jellyfin? In general, I've noticed Plex works better for m
 - Android: [Play Store](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
 
 ## Want to request more content?
-Go ahead and log into: 
-https://overseerr.dakotamnichols.com/
+Go ahead and log into this site using the credentials I provided you: 
+https://requests.dakotamnichols.com/
 
-![overseerr-sign-in-2024-09-03.png](screenshots/overseerr-sign-in-2024-09-03.png)
-
-Clicking Sign In here will ask for your permission to log in from Plex.
-![overseerr-plex-sign-in-2024-09-03.png](screenshots/overseerr-plex-sign-in-2024-09-03.png)
+![jellyseerr-sign-in-2024-09-03.png](screenshots/jellyseerr-sign-in-2024-09-03.png)
 
 Confirm the sign in, and you'll be able to search for any TV show or movie you want! By default there is a request limit of 8 movies and 5 TV seasons per week.
-![overseerr-home-2024-09-03.png](screenshots/overseerr-home-2024-09-03.png)
+![jellyseerr-home-2024-09-03.png](screenshots/jellyseerr-home-2024-09-03.png)
 
 ## Notice an issue with content? 
-I'm going to give you 2 great options for getting my attention on something. First You can find the item on [Overseerr](https://overseerr.dakotamnichols.com/) and click on the yellow "Report Issue" button on the right hand side.
-![overseerr-report-issue-2024-09-03.png](screenshots/overseerr-report-issue-2024-09-03.png)
+I'm going to give you 2 great options for getting my attention on something. First You can find the item on [jellyseerr](https://requests.dakotamnichols.com/) and click on the yellow "Report Issue" button on the right hand side.
+![jellyseerr-report-issue-2024-09-03.png](screenshots/jellyseerr-report-issue-2024-09-03.png)
 
 Fill out the popup dialog with detailed information like this:
-![overseerr-report-issue-dial-2024-09-03.png](screenshots/overseerr-report-issue-dial-2024-09-03.png)
+![jellyseerr-report-issue-dial-2024-09-03.png](screenshots/jellyseerr-report-issue-dial-2024-09-03.png)
 
 *Please, for my sanity*, add details to your issue. If only one device has an issue, it might just be a spotty connection or an incompabitility with that app. *If the issue occurs on every device, then it's probably something wrong with the file itself.*
