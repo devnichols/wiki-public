@@ -39,6 +39,25 @@ So why not always use Jellyfin? In general, I've noticed Plex works better for m
 
 - Android: [Play Store](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
 
+## Update your own password
+
+Your account is physically stored on my server and can authenticate you use in Jellyfin, Jellyseerr, and AudioBookShelf. If you want to change you password, navigate to this site and log in:
+https://auth.dakotamnichols.com/realms/nichols/account/
+
+![keycloak-auth-sign-in-2024-10-14.png](screenshots/keycloak-auth-sign-in-2024-10-14.png)
+
+In the left hand menu, click *Account Security*, then *Signing in*.
+
+![keycloak-account-security-2024-10-14.png](screenshots/keycloak-account-security-2024-10-14.png)
+
+Click *Update* in the password section and enter your new password. This will populate to other services like Jellyfin, Jellyseerr, and AudioBookShelf.
+
+![keycloak-update-password-2024-10-14.png](screenshots/keycloak-update-password-2024-10-14.png)
+
+## Two-factor authentication
+
+As it stands right now, Jellyfin and Jellyseerr do not support 2FA. Setting up 2FA in the auth page from the section above will add additional security to your sign in on AudioBookShelf.
+
 ## Want to request more content?
 Go ahead and log into this site using the credentials I provided you: 
 https://requests.dakotamnichols.com/
